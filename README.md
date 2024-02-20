@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @alan-prowsemclean
-- 👀 I’m interested in Python and Go
+- 👀 I’m interested in Python, Go and Rust
 - 🌱 I’m currently learning to be a better Go developer
